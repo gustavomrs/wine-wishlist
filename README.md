@@ -13,4 +13,4 @@
 * Modest JS framework for the HTML you already have
 * The framework that is used when some JS is required
 
-We don’t have Hotwire by default in our backend, but we can use support starts on rails 6 and we’re on rails 6
+We don’t have Hotwire by default in our backend, but we can start to use anytime as support starts on rails 6 (and we’re on rails 6)
