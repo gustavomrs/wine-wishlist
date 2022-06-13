@@ -1,4 +1,4 @@
-# Inovation Day - Hotwire
+# Innovation Day - Hotwire
 
 ## What is Hotwire?
 
