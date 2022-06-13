@@ -1,0 +1,13 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Wine Wishlist</h1>
+
+<%= turbo_frame_tag "wine_form" do %>
+  <%= render "wines/form", wine: @wine %>
+<% end %>
+
+<%= turbo_frame_tag "wines" do %>
+  <%= render @wines %>
+<% end %>
+
+<%= turbo_stream_from "wines" %>
